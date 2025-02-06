@@ -1,0 +1,52 @@
+* {
+    margin:0;
+    padding: 0;
+    
+}
+
+.row {
+display: flex;
+
+}
+.Header {
+    width:100%;
+    height: 150px;
+    
+
+}
+
+.head1{
+   background-color: beige;
+}
+
+.head2 {
+    width:100%;
+    height: 50px;
+}
+.head2{
+    background-color: yellowgreen;
+}
+
+.head3, .head4 {
+    width: 50%;
+}
+.head3-1, .head3-2 {
+    height: 150px;
+}
+.head3-1 {
+    background-color: aqua;
+}
+.head3-2 {
+    background-color: blanchedalmond;
+}
+.head4 {
+    background-color: cadetblue;
+    height: 300px;
+}
+.head5 {
+    background-color: brown;
+    height: 50px;
+}
+.div {
+    border: 2px solid black;
+}
